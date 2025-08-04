@@ -7,7 +7,7 @@ This repository contains a simple Node.js application combined with a CI/CD pipe
 During this internship task, I focused on several key areas to deepen my understanding of software development workflows:
 
 ### 1. Building a Sample Node.js Application  
-I developed a basic Node.js app which laid the foundation for everything else. This helped me refresh and apply my knowledge of backend JavaScript development.
+Create a Demo React App locally and pushed it to the remote repo
 
 ### 2. Dockerizing the Application  
 I learned how to write a Dockerfile to containerize the app, which ensures a consistent environment for running the application regardless of where it is deployed. This was an important introduction to containerization concepts.
@@ -15,7 +15,7 @@ I learned how to write a Dockerfile to containerize the app, which ensures a con
 ### 3. Automating Builds and Testing with GitHub Actions  
 I set up a GitHub Actions workflow to automate:
 - Installing dependencies
-- Running unit tests  
+- Running unit tests
 This step solidified my understanding of Continuous Integration (CI) and why automated testing matters.
 
 ### 4. Building and Pushing Docker Images Automatically  
