@@ -35,9 +35,3 @@ Encountering issues such as Dockerfile location errors helped me understand the 
 - Built a fully automated CI/CD pipeline using GitHub Actions.
 - Learned best practices for secure credential management and workflow organization.
 - Practiced real-world problem-solving by troubleshooting build errors and configuration issues.
-
----
-
-This project represents an important milestone in my internship, demonstrating my growing ability to develop, containerize, and deploy applications in an automated and professional manner.
-
-Feel free to explore this repository and see the practical side of CI/CD integration with containerization.
